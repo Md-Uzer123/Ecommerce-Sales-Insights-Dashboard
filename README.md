@@ -29,4 +29,5 @@ To improve Vrinda Store sales in 2023, the strategy should be:
 - (Optional: SQL / Python for data processing)
 
 ## Dashboard Preview
-<img width="1094" height="161" alt="image" src="https://github.com/user-attachments/assets/6d04a46f-715e-48e7-bc41-00205eaac360" />
+<img width="1101" height="489" alt="image" src="https://github.com/user-attachments/assets/f739ab40-2b3b-4517-b14f-927b0911a177" />
+
